@@ -1,0 +1,10 @@
+nav#notPc {
+  display: none;
+}
+
+footer {
+  position: absolute;
+  bottom: 5px;
+  width: 100%;
+  text-align: center;
+}
